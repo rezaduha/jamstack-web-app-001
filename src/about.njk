@@ -5,3 +5,7 @@ layout: base.njk
 
 <h1>About</h1>
 <p>This is about page</p>
+
+{% for item in news %}
+  <a href="/{{ item.country}}">{{ item.country }}</a>
+{%  endfor %}
