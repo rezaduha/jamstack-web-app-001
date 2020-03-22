@@ -3,11 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>A News For You</title>
+    <title>{{ title }}</title>
 </head>
 <body>
-    <h1>Breaking News in Your Country</h1>
-    <div class="vibe">Hi there</div>
-    <script src="vibe.js"></script>
+    {{ content | safe }}
 </body>
 </html>
