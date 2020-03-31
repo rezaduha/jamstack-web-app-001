@@ -1,5 +1,4 @@
 # jamstack-web-app-001
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Local development
 
