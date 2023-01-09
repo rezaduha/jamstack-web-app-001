@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/rezaduha/jamstack-web-app-001#readme",
   "dependencies": {
-    "@11ty/eleventy": "^0.10.0",
+    "@11ty/eleventy": "^1.0.2",
     "axios": "^0.19.2",
     "dotenv": "^8.2.0"
   }
